@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Client()
+comment1.params=
+comment1.target=void\ openFile()
+comment2.params=
+comment2.target=void\ readAndWriteFile()
+comment3.params=
+comment3.target=void\ readAndWrite()
+comment4.params=
+comment4.target=void\ rent()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ communicate()
+comment7.params=
+comment7.target=void\ closeFile()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
